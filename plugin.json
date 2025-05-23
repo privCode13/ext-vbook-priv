@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "author": "priv",
+    "description": "Extensions by Priv"
+  },
+  "data": [
+    {
+      "name": "trumtruyen.live Priv",
+      "author": "priv",
+      "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/TrumTruyen/plugin.zip",
+      "version": 1,
+      "source": "https://trumtruyen.live",
+      "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/TrumTruyen/icon.png",
+      "description": "Đọc truyện trên trang Trùm Truyện",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "truyenheo Priv",
+      "author": "priv",
+      "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/truyenheo/plugin.zip",
+      "version": 1,
+      "source": "https://truyensextv.cc/",
+      "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/truyenheo/icon.png",
+      "description": "Đọc truyện trên trang http://truyensextv.me do Priv chỉnh sửa",
+      "type": "novel",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "ttkan.co priv",
+      "author": "priv",
+      "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/ttkan/plugin.zip",
+      "version": 1,
+      "source": "https://ttkan.co",
+      "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/ttkan/icon.png",
+      "description": "Đọc truyện trên trang ttkan.co",
+      "type": "novel",
+      "locale": "zh-CN"
+    },
+    {
+      "name": "boqgue.com priv",
+      "author": "priv",
+      "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/boquge/plugin.zip",
+      "version": 1,
+      "source": "https://boquge.com",
+      "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/boquge/icon.png",
+      "description": "Đọc truyện trên trang boquge.com",
+      "type": "novel",
+      "locale": "zh-CN"
+    }
+  ]
+}

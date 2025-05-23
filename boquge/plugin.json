@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "name": "Boquge priv",
+    "author": "priv",
+    "version": 1,
+    "source": "https://m.boquge.com",
+    "regexp": "^(https?:\\/\\/)?(www\\.)?(m\\.)?boquge\\.com(\\/.*)?$",
+    "description": "Đọc truyện trên trang boquge.com",
+    "locale": "zh-CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

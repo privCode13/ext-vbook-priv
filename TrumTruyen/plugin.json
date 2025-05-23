@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "Trùm Truyện Priv",
+    "author": "priv",
+    "version": 1,
+    "source": "https://trumtruyen.live",
+    "regexp": "(www.)?trumtruyen.live/[^/]+/?$",
+    "description": "Đọc truyện trên trang Trum Truyen",
+    "locale": "vi_VN",
+    "type": "novel",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "page": "page.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
