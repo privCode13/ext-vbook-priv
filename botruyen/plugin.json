@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "name": "BoTruyen priv",
+    "author": "priv",
+    "version": 1,
+    "source": "https://botruyen.biz",
+    "regexp": "^(https?:\\/\\/)?(www\\.)?(m\\.)?botruyen\\.biz(\\/.*)?$",
+    "description": "Đọc truyện trên trang botruyen.biz",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
