@@ -16,6 +16,17 @@
       "locale": "vi_VN"
     },
     {
+      "name": "botruyeb.biz Priv",
+      "author": "priv",
+      "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/botruyen/plugin.zip",
+      "version": 1,
+      "source": "https://botruyeb.biz",
+      "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/botruyen/icon.png",
+      "description": "Đọc truyện trên trang BoTruyen",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
       "name": "truyenheo Priv",
       "author": "priv",
       "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/truyenheo/plugin.zip",
