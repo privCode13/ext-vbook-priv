@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "TruyenXXX",
+    "author": "priv",
+    "version": 1,
+    "source": "https://truyenxxx.net/",
+    "regexp": "^(https?:\\/\\/)?(www\\.)?(m\\.)?truyenxxx\\.net(\\/.*)?$",
+    "description": "Đọc truyện trên trang http://truyenxxx.net tác giả là Priv",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel",
+    "tag": "nsfw"
+  },
+  "script": {
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
