@@ -62,6 +62,17 @@
       "locale": "zh-CN"
     },
     {
+      "name": "ixdzs8.com priv",
+      "author": "priv",
+      "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/ixdzs8/plugin.zip",
+      "version": 1,
+      "source": "https://ixdzs8.com",
+      "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/ixdzs8/icon.png",
+      "description": "Đọc truyện trên trang ixdzs8.com",
+      "type": "novel",
+      "locale": "zh-CN"
+    },
+    {
       "name": "boqgue.com priv",
       "author": "priv",
       "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/boquge/plugin.zip",

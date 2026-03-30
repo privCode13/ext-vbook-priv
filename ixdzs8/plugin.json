@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "ixdzs8.com",
+    "author": "priv",
+    "version": 1,
+    "source": "https://ixdzs8.com/",
+    "regexp": "^(https?:\\/\\/)?(www\\.)?(m\\.)?ixdzs8\\.com(\\/.*)?$",
+    "description": "Đọc truyện trên trang http://ixdzs8.com tác giả là Priv",
+    "locale": "zh-CN",
+    "language": "javascript",
+    "type": "novel",
+    "tag": "chinese_novel"
+  },
+  "script": {
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
