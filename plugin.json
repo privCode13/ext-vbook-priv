@@ -16,6 +16,17 @@
       "locale": "vi_VN"
     },
     {
+      "name": "KhoTruyenChu.space Priv",
+      "author": "priv",
+      "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/khotruyenchuspace/plugin.zip",
+      "version": 1,
+      "source": "https://khotruyenchu.space",
+      "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/khotruyenchuspace/icon.png",
+      "description": "Đọc truyện trên trang KhoTruyenChu.Space",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
       "name": "botruyen.biz Priv",
       "author": "priv",
       "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/botruyen/plugin.zip",
