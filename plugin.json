@@ -69,7 +69,7 @@
       "source": "https://ttkan.co",
       "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/ttkan/icon.png",
       "description": "Đọc truyện trên trang ttkan.co",
-      "type": "novel",
+      "type": "chinese_novel",
       "locale": "zh-CN"
     },
     {
@@ -80,7 +80,7 @@
       "source": "https://ixdzs8.com",
       "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/ixdzs8/icon.png",
       "description": "Đọc truyện trên trang ixdzs8.com",
-      "type": "novel",
+      "type": "chinese_novel",
       "locale": "zh-CN"
     },
     {
@@ -91,7 +91,7 @@
       "source": "https://boquge.com",
       "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/boquge/icon.png",
       "description": "Đọc truyện trên trang boquge.com",
-      "type": "novel",
+      "type": "chinese_novel",
       "locale": "zh-CN"
     }
   ]
