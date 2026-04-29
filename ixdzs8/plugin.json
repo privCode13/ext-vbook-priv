@@ -8,8 +8,8 @@
     "description": "Đọc truyện trên trang http://ixdzs8.com tác giả là Priv",
     "locale": "zh-CN",
     "language": "javascript",
-    "type": "novel",
-    "tag": "chinese_novel"
+    "tag": "chinese_novel",
+    "type": "chinese_novel"
   },
   "script": {
     "detail": "detail.js",
