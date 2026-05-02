@@ -93,6 +93,19 @@
       "description": "Đọc truyện trên trang boquge.com",
       "type": "chinese_novel",
       "locale": "zh-CN"
+    },
+    
+    {
+      "name": "alicesw.com priv",
+      "author": "priv",
+      "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/alicesw/plugin.zip",
+      "version": 1,
+      "source": "https://boquge.com",
+      "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook-priv/main/alicesw/icon.png",
+      "description": "Đọc truyện trên trang alicesw",
+      "type": "chinese_novel",
+      "locale": "zh-CN",
+      "tag": "nsfw"
     }
   ]
 }
