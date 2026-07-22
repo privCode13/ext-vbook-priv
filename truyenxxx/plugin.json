@@ -2,9 +2,9 @@
   "metadata": {
     "name": "TruyenXXX",
     "author": "priv",
-    "version": 1,
+    "version": 2,
     "source": "https://truyenxxx.net/",
-    "regexp": "^(https?:\\/\\/)?(www\\.)?(m\\.)?truyenxxx\\.net(\\/.*)?$",
+    "regexp": "^(https?:\\/\\/)?(www\\.)?(m\\.)?truyenxxx\\.[a-z]{2,}(\\/.*)?$",
     "description": "Đọc truyện trên trang http://truyenxxx.net tác giả là Priv",
     "locale": "vi_VN",
     "language": "javascript",

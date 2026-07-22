@@ -5,7 +5,7 @@ function execute(url) {
         return Response.success({
             name: doc.select(".single-header h1.single-title").text(),
             cover: "https://i.imgur.com/5BdXa90.png",     
-            host: "https://truyenxxx.net",
+            host: "https://truyenxxx.org",
             author: "AUTHOR", 
             detail: "DETAIL",
             description: "DESCRIPTION",

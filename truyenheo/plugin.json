@@ -2,9 +2,9 @@
   "metadata": {
     "name": "truyenheo priv",
     "author": "priv",
-    "version": 1,
+    "version": 2,
     "source": "https://truyensextv.cc/",
-    "regexp": "truyen(heo|sex).*?/[^/]+/?$",
+    "regexp": "truyen(heo|sex)[a-zA-Z0-9-].*?/[^/]+/?$",
     "description": "Đọc truyện trên trang http://truyensextv.me tác giả là hajljnopera mà xóa rồi, dat-bi sửa, Priv sửa tiếp",
     "locale": "vi_VN",
     "language": "javascript",
